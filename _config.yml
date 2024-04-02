@@ -16,7 +16,7 @@ timezone: "America/Los_Angeles"
 
 title: Jack Casica # the main title
 
-tagline: I am a Web Developer based in Los Angeles, CA. I can work across a wide spectrum of web technologies and domains. On Saturday mornings you can find me at Savvy's in Pasadena for the local coding meetup. # it will display as the sub-title
+tagline: I am a Web Developer based in Los Angeles, CA. I can work across a wide spectrum of web technologies and domains. On Saturday mornings you can find me at [Savvy's in Pasadena](http://example.com) for the local coding meetup. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
