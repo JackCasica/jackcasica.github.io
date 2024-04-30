@@ -16,14 +16,14 @@ timezone: "America/Los_Angeles"
 
 title: Jack Casica # the main title
 
-tagline: I am a Web Developer based in Los Angeles, CA. I can work across a wide spectrum of web technologies and domains. On Saturday mornings you can find me at [Savvy's in Pasadena](http://example.com) for the local coding meetup. # it will display as the sub-title
+tagline: I am a Web Developer based in Los Angeles, CA. I can work across a wide spectrum of web technologies and domains. On Saturday mornings you can find me at [Savvy's in Pasadena](https://maps.app.goo.gl/sfr4TX2Pqhcupm3g7) for the local coding meetup. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://jackcasica.github.io"
+url: "https://jackcasica.com"
 
 github:
   username: e # change to your github username
