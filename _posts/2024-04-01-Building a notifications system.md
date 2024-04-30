@@ -80,7 +80,4 @@ graph TD;
     U5 --> ConvexHTTP;
     U6 --> ConvexHTTP;
     ConvexHTTP --> UI[Update in User Interface];
-
-
-
 ```
