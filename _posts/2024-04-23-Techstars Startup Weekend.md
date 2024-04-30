@@ -1,5 +1,5 @@
 ---
-title: My Techstars Startup Weekend Experience: Insights for Aspiring Developers
+title: My Techstars Startup Weekend Experience – Insights for Aspiring Developers
 description: My experience at Techstars Startup Weekend, where I built a web application called OpenDoor using Flutterflow.
 date: 2024-04-23 11:33:00 +0800
 categories: [Blogging, Demo]
