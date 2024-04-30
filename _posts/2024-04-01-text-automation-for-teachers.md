@@ -14,8 +14,6 @@ image:
   alt: An angled view of an older model Nokia phone with a physical keyboard, displaying a spreadsheet application on its screen. The spreadsheet contains text in the first row that reads 'WHERE YOU AT' in column A and 'HOLLA WHEN YOU GET THIS' in column B, indicating a playful or informal message.
 ---
 
-# The Project that Prompted my Career Switch (and How to Improve It)
-
 ## Intro
 
 Hi everyone. This is FullstackJack, a channel that I've started to share any nuggets of insight that I might happen to have with all of you about programming and web development. My name is Jack, and I've got a background in teaching and a passion for coding. ~~So, whether you're a beginner or just looking to sharpen your skills, you’re in the right place. I’ve been thinking~~
@@ -34,7 +32,8 @@ It turned out, at the time, nothing with a polished UI yet existed for accomplis
 
 ```jsx
 function sendSms(to, body) {
-  var messages_url = "<https://api.twilio.com/2010-04-01/Accounts/YOURACCOUNTSID/Messages.json>";
+  var messages_url =
+    "<https://api.twilio.com/2010-04-01/Accounts/YOURACCOUNTSID/Messages.json>";
 
   var payload = {
     To: to,
@@ -48,7 +47,8 @@ function sendSms(to, body) {
   };
 
   options.headers = {
-    Authorization: "Basic " + Utilities.base64Encode("YOURACCOUNTSID:YOURAUTHTOKEN"),
+    Authorization:
+      "Basic " + Utilities.base64Encode("YOURACCOUNTSID:YOURAUTHTOKEN"),
   };
 
   UrlFetchApp.fetch(messages_url, options);

@@ -16,20 +16,20 @@ timezone: "America/Los_Angeles"
 
 title: Jack Casica # the main title
 
-tagline: I am a Web Developer based in Los Angeles, CA. I can work across a wide spectrum of web technologies and domains. On Saturday mornings you can find me at [Savvy's in Pasadena](https://maps.app.goo.gl/sfr4TX2Pqhcupm3g7) for the local coding meetup. # it will display as the sub-title
+tagline: I am a Web Developer based in Los Angeles, CA. I can work across a wide spectrum of web technologies and domains. On Saturday mornings you can find me at Savvy's in Pasadena for the local coding meetup. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://jackcasica.com"
+url: "https://jackcasica.github.io"
 
 github:
-  username: e # change to your github username
+  username: jackcasica # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#   username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: Jackcasica@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.threads.net/@jackcasica # change to your twitter homepage
+    # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/jackcasica # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
