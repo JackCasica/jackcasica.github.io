@@ -1,7 +1,7 @@
 ---
 title:
 description: How
-author: cotes
+
 date: 2019-08-08 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
@@ -16,12 +16,7 @@ image:
 
 # The Project that Prompted my Career Switch (and How to Improve It)
 
-Date: October 17, 2023 1:07 PM
-Video Length: 10 minutes
-Status: In progress
-As a Viewer, I...: am reminded of best practices, get actionable tip that I can apply in my own projects, understand the mistakes to avoid
-
-## Intro `1 min`
+## Intro
 
 Hi everyone. This is FullstackJack, a channel that I've started to share any nuggets of insight that I might happen to have with all of you about programming and web development. My name is Jack, and I've got a background in teaching and a passion for coding. ~~So, whether you're a beginner or just looking to sharpen your skills, you’re in the right place. I’ve been thinking~~
 
@@ -29,11 +24,11 @@ I've been holding off on content creation for a while now, you know, perfectioni
 
 As my first video, I’d like to share the project that prompted my decision to leave 4 years of teaching and start a career path toward web development. I'd then like to talk about how I might improve the original application that I used both in terms of features, and code quality.
 
-## Defining the Problem `30 sec`
+## Defining the Problem
 
 As a teacher, I was having a parent communication problem where parents said they didn't really know what was going on with their child in my classroom. Our learning management system had a simple email system, but what I found was that parents were much more engaged when you reached out to them via text. I started to look for an existing edTech solution for teachers to be able to cut through the noise of span and send out mass SMS where each message was personalized to the student and parent.
 
-## Looking for solutions and finding one `4 min`
+## Looking for solutions and finding one
 
 It turned out, at the time, nothing with a polished UI yet existed for accomplishing something like this, but it didn't take long for me to find an article by [Greg Bauges](https://www.linkedin.com/in/gregbaugues/) from Twilio: [How to Send SMS from a Google Spreadsheet](https://www.twilio.com/blog/send-sms-from-a-google-spreadsheet-html) . In the post, Greg provided the following code:
 
