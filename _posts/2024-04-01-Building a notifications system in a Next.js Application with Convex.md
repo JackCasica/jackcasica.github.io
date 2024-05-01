@@ -5,7 +5,7 @@ date: 2019-08-08 11:33:00 +0800
 categories:
   [Blogging, Demo, Next.js, Convex, Notifications, Resend, react-email]
 tags: [typography]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

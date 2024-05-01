@@ -1,16 +1,17 @@
 ---
-title:
-description: How
-date: 2019-08-08 11:33:00 +0800
+title: Generating amazing READMEs using readme.ai
+description: A detailed guide on creating engaging and informative READMEs using readme.ai
+
+date: 2023-12-08 11:33:00 +0800
 categories: [Blogging, Demo]
-tags: [typography]
-pin: true
+tags: [typography, case study]
+pin: false
 math: true
 mermaid: true
 image:
-  path: /assets/img/framer-boost-screenshot.png
+  path: /assets/img/readme-ai.png
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: An angled view of an older model Nokia phone with a physical keyboard, displaying a spreadsheet application on its screen. The spreadsheet contains text in the first row that reads 'WHERE YOU AT' in column A and 'HOLLA WHEN YOU GET THIS' in column B, indicating a playful or informal message.
+  alt: Robot coding on laptop with screen in background..
 ---
 
 ## Overview

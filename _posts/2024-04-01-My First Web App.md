@@ -1,11 +1,11 @@
 ---
-title:
-description: How
+title: My First Web App
+description: A reflection on my first web app project and the lessons learned.
 
 date: 2019-08-08 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

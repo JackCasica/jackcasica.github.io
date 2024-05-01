@@ -4,7 +4,7 @@ description: My experience at Techstars Startup Weekend, where I built a web app
 date: 2024-04-23 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

@@ -1,17 +1,17 @@
 ---
 title: Creating a resume writing AI-gency with CrewAI
-description: How
+description: A detailed case study on building a fleet of AI agents for resume and cover letter generation using CrewAI and Convex
 
 date: 2024-04-08 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [AI Orchestration, Python, Flask]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:
   path: assets/img/papercraft-logo.png
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: An angled view of an older model Nokia phone with a physical keyboard, displaying a spreadsheet application on its screen. The spreadsheet contains text in the first row that reads 'WHERE YOU AT' in column A and 'HOLLA WHEN YOU GET THIS' in column B, indicating a playful or informal message.
+  alt: PaperCraft Logo.
 ---
 
 ### Project Overview
