@@ -1,7 +1,7 @@
 ---
 title: Generating amazing READMEs using readme.ai
-description: A detailed guide on creating engaging and informative READMEs using readme.ai
-
+description: A detailed guide on creating engaging and informative READMEs using readme.ai;
+published: false
 date: 2023-12-08 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typography, case study]

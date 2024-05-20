@@ -1,7 +1,7 @@
 ---
 title: Creating a resume writing AI-gency with CrewAI
 description: A detailed case study on building a fleet of AI agents for resume and cover letter generation using CrewAI and Convex
-
+published: false
 date: 2024-04-08 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [AI Orchestration, Python, Flask]
