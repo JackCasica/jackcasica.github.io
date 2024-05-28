@@ -14,10 +14,6 @@ image:
   alt: An angled view of an older model Nokia phone with a physical keyboard, displaying a spreadsheet application on its screen. The spreadsheet contains text in the first row that reads 'WHERE YOU AT' in column A and 'HOLLA WHEN YOU GET THIS' in column B, indicating a playful or informal message.
 ---
 
-Certainly! Here's the updated blog post, including a section on the learning value and programming concepts showcased in this project:
-
----
-
 ## Transforming Classroom Communication with a Web Application
 
 ### Introduction and Background
