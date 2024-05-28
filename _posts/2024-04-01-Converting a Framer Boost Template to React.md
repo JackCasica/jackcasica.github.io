@@ -1,7 +1,7 @@
 ---
 title: Converting a Framer Boost Template to React
 description: How
-date: 2019-08-08 11:33:00 +0800
+date: 2023-08-08 11:33:00 +0800
 categories: [Framer, Next.js, shadcn, Tailwind, Storybook]
 tags: [typography]
 pin: false
