@@ -14,8 +14,6 @@ image:
   alt: An angled view of an older model Nokia phone with a physical keyboard, displaying a spreadsheet application on its screen. The spreadsheet contains text in the first row that reads 'WHERE YOU AT' in column A and 'HOLLA WHEN YOU GET THIS' in column B, indicating a playful or informal message.
 ---
 
-## Transforming Classroom Communication with a Web Application
-
 ### Introduction and Background
 
 During my four years as a middle school math teacher, I encountered a significant challenge: maintaining consistent communication with parents to keep them informed about their children's progress. Engaging parents in their children's education can significantly improve student accountability and performance, but reaching out to each parent individually was time-consuming. This challenge led me to explore technical solutions and eventually build my first web application to streamline this process.
